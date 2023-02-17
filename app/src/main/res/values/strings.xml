@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="my_name">Tam Jia Shun</string>
+    <string name="bt1">Show</string>
+    <string name="bt2">Hide</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+</resources>
